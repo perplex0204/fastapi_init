@@ -1,0 +1,26 @@
+# Python
+**/__pycache__
+**/.pytest_cache
+**/.coverage
+**/.env
+**/*.pyc
+.git
+.gitignore
+.vscode
+
+# Docker
+Dockerfile
+docker-compose.yml
+
+# Git
+.git/
+.gitignore
+
+#ENV
+.env
+.venv
+env/
+venv/
+
+# PEP
+__pypackages__
